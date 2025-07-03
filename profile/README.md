@@ -1,6 +1,6 @@
 # Ibiporã Implementos Rodoviários
 
-![Ibiporã Implementos Rodoviários](https://cdn.codiehost.com.br/codie/uapmi44y.2do.png)
+![Ibiporã Implementos Rodoviários]([https://www.ibiporaimplementos.com.br/images/logo.png])
 
 A **Ibiporã Implementos Rodoviários** é uma organização especializada no gerenciamento de projetos voltados para a produção e comercialização de implementos rodoviários, com foco em inovação, qualidade e eficiência. Nosso compromisso é proporcionar soluções práticas e sustentáveis para o setor de transporte rodoviário, atendendo às necessidades de nossos clientes com excelência e comprometimento.
 
